@@ -1,0 +1,12 @@
+ //Alan Hesaplama Uygulamasý
+
+            //Amaç => Uygulamanýn bir menü ile kullanýcan bir þekil seçmesini ve þeklin alan hesabý için gereken parametrelerinin alýnarak þekil alanlarýnýn hesaplanmasýný saðlayan bir uygulama geliþtirilmesi
+
+            // NOT : Kullanýcý çýkýþ seçeneðini seçmedikçe program sonlanmamalý ve her iþlem sonrasý menü'ye dönerek baþka bir þekil için alan hesaplama baþlatýlabilmelidir.
+
+            /* Menü:
+             * 1-Kare alaný: (a*a) 
+             * 2-Dikdörtgen Alaný: (a*b) 
+             * 3-Üçgen Alaný: (a * h / 2)
+             * 4-Yamuk Alaný: (((a*b)/2 ) * h)             
+            */
